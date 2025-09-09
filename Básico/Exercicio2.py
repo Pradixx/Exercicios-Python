@@ -1,6 +1,6 @@
 # Exercício 2
 nome_namorada = "Julia"
-nome_amigo = "Gustavo"
+nome_amigo = "Jesus"
 
 print("\n\n")  # Pulando duas linhas
 print("Nome da namorada:", nome_namorada)
