@@ -1,6 +1,6 @@
 # 🐍 Exercícios Python
 
-Repositório com meus exercícios e projetos desenvolvidos durante o aprendizado de Python, organizados por nível de dificuldade.
+Repositório com meus exercícios e projetos desenvolvidos durante o aprendizado de Python, organizados por nível de dificuldade (Laboratório de Python).
 
 ---
 
